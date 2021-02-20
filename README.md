@@ -14,37 +14,19 @@ By putting their product inside a composition with the adequate images set, they
 
 The categories of products that would benefit of a solution for this problem arre : cosmetics, perfumes, cooked dishes, and in fact any product with an odour that need to be sold on a e-commerce web site.
 
-One concrete example : I am selling a lemon candle and pine. How do I maximize the probability to summon the right lemon-pine odour memory when the customer is looking at the picture of my candle. We could say put a lemon and a pine behind your candle but it is far from satisfying and experience tends to show that a picture with a lemon-pie summon better the memory of lemon odour than the picture of a lemon. So what do I do if I am a e-commerce marketer to promote my lemonand pine candle using images?
-
 
 ## How is it used?
 
-Describe the process of using the solution. In what kind situations is the solution needed (environment, time, etc.)? Who are the users, what kinds of needs should be taken into account?
+One concrete example : I am selling on a e-commerce website a candle that smells lemon and pine. How do I maximize the probability to summon the right lemon-pine odour memory when the customer is looking at the picture of my candle?
 
-Images will make your README look nice!
-Once you upload an image to your repository, you can link link to it like this (replace the URL with file path, if you've uploaded an image to Github.)
-![Cat](https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg)
+We could say put a lemon and a pine behind your candle but it is far from satisfying and experience tends to show that a picture with a lemon-pie summon better the memory of lemon odour than the picture of a lemon. So what do I do if I am a e-commerce marketer to promote my lemon and pine candle using images?
 
-If you need to resize images, you have to use an HTML tag, like this:
-<img src="https://upload.wikimedia.org/wikipedia/commons/5/5e/Sleeping_cat_on_her_back.jpg" width="300">
+Therefore muy AI solution would give you the capability to sort any bank of image in adequate subsets that are triggering the memory of a set of odours when you are looking at these subsets of images. For example if I have 10 main odours in my products and a bank of 1000 images, I would like to classify my bank in 10 lists, one for each odour.
+And each list would contain a number of set of images that have a high probability to trigger the odour I am trying to recall.
 
-This is how you create code examples:
-```
-def main():
-   countries = ['Denmark', 'Finland', 'Iceland', 'Norway', 'Sweden']
-   pop = [5615000, 5439000, 324000, 5080000, 9609000]   # not actually needed in this exercise...
-   fishers = [1891, 2652, 3800, 11611, 1757]
+By using my sorted bank, I would be able to market efficiently my product on the web but putting it in a picture that can generate the right odour memories I want to generate.
 
-   totPop = sum(pop)
-   totFish = sum(fishers)
-
-   # write your solution here
-
-   for i in range(len(countries)):
-      print("%s %.2f%%" % (countries[i], 100.0))    # current just prints 100%
-
-main()
-```
+The AI solution I will describe below could be used in theory on any available bank of images for any list of odours.
 
 
 ## Data sources and AI methods
