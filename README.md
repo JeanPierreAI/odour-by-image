@@ -79,6 +79,6 @@ Maybe we could find a bank of images already classified into "the-right-picture-
 
 ## Acknowledgments
 
-I want to thank my loved wife who is the creator of an e-commerce company creating and selling natural cosmetics and has forever be faced with this business problem of triggering scents without any scent on its website. Thank you Sophie for having given me this business problem. I dot not have the applied AI solution but I know that it will exist someday because it is not so difficult using the above technics, it requires just time and money :-)
+I want to thank my loved wife who is the creator of an e-commerce company creating and selling natural cosmetics and has forever be faced with this business problem of triggering scents without any scent on its website. Thank you my Dear for having given me this business problem. I dot not have the applied AI solution but I know that it will exist someday because it is not so difficult using the above technics, it requires just time and money :-)
 
 
