@@ -1,5 +1,5 @@
 # scent-by-image
-Final project for the Building AI course
+Final project for the Building AI course of Univerity of Helsinki
 
 ## Summary
 
