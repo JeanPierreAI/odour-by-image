@@ -1,4 +1,4 @@
-# odour-by-image
+# scent-by-image
 Final project for the Building AI course
 
 ## Summary
